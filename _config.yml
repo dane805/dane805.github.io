@@ -22,8 +22,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              jeongmin ju
-  email:             cosmos1767@naver.com
+  name:              Dane Ahn
+  email:             natasma13@gmail.com
 
 # Fallback image and color
 image:               /assets/img/nap.jpg # TODO
@@ -50,7 +50,7 @@ google_analytics:    ''
 disqus_shortname:    ''
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. by Seongyun Byeon'
+copyright:           '&copy; 2022. by Dane Ahn'
 
 # Format of the permalinks
 permalink:           pretty
